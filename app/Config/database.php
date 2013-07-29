@@ -60,7 +60,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'hanyun',
+		'password' => 'chuanbo',
 		'database' => 'hanyun',
 		'prefix' => 'oms_',
 		'encoding' => 'utf8',
