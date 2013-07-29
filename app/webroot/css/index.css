@@ -1,0 +1,156 @@
+*{
+	font-family:Arial, \9ED1\4F53;
+}
+
+a img{
+	border:none;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a {
+	color: #333;
+}
+
+.gen-1 {
+	line-height: 110%;
+/*	margin-top: -2px; */
+	padding: 0px;
+}
+
+.gen-2 {
+	vertical-align: middle;
+	margin-top: 0px;
+}
+
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+/*.ts-1 {
+	border: none;
+	height: 1357px; 
+	margin-left: auto;
+	margin-right: auto;
+	position: relative; 
+	text-align: left;
+	width: 1001px; 
+	top: auto;
+}
+*/
+
+#level_1 {
+	height: 93px;
+	background-image: url(../images/1_02.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+
+#level_2 {
+	height: 33px;
+	background-image: url(../images/1_12.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+
+#level_3 {
+	height: 2px;
+	background-image: url(../images/1_32.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+	z-index: 5px;
+}
+
+#level_4 {
+	height: 24px;
+	background-image: url(../images/1_34.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+
+#level_5 {
+	height: 266px;
+	background-image: url(../images/1_36.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+
+#level_5_index {
+	height: 363px;
+	background-image: url(../images/1_36.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+	overflow:hidden;
+}
+
+#level_6 {
+/*	height: 642px;	*/
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#level_7 {
+	margin-top:3px;
+	height: 14px;
+	overflow:hidden;
+	background-image: url(../images/1_68.jpg);
+	background-position:0px;
+	background-repeat:repeat-x;
+}
+
+#level_8 {
+	height: 155px;
+	background-image: url(../images/1_69.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+}
+
+#level_9 {
+	height:auto;
+	background-image: url(../images/1_100.jpg);
+	background-position: 0px 0px;
+	background-repeat:repeat-x;
+}
+
+.level {
+	width:1001px;
+	height:inherit;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+}
+
+#box { 
+	position: absolute; 
+	width: 450px; 
+	height: 460px;
+	z-index: 4; 
+	display:none;
+	background-image:url(../images/tanchuang2.jpg);
+}
+
+#box .submit {
+	margin-top:15px;
+	float:right;
+	margin-left:5px;
+}
+
+#box #item_info_table {
+	padding-bottom:10px;
+}
+
+#box #close { position: absolute; right: 15px; top: 8px; cursor: pointer; }
+
+#box1 { position: absolute; width: 200px; height: 200px; border: 1px solid black; background-color: white; z-index: 4; display:none}
+#box1 #close1 { position: absolute; right: 5px; top: 5px; cursor: pointer; }
+
+#mark { width: 500px; height: 400px; position: absolute; left: 0; top: 0; filter:Alpha(Opacity=30);-moz-opacity:0.4;opacity: 0.4;z-index: 1; background-color:#000}

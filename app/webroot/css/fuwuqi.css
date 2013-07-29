@@ -1,0 +1,137 @@
+
+.gen-1 {
+	line-height: 110%;
+}
+
+.fuwuqi {
+	height:994px;
+	margin-left:35px;
+	margin-right:36px;
+	width:930px;
+	/*width: inherit;*/
+}
+
+.fuwuqi ul li {
+	list-style-type: none;
+	display:list-item;
+	padding-top:4px;
+}
+
+.fuwuqi_1 {
+	height:54px;
+	width:inherit;
+	overflow:hidden;
+}
+
+.fuwuqi_1_1 {
+	margin-top:20px;
+	margin-left:60px;
+	width:inherit;
+	line-height:28px;
+	float:left;
+	font-size:28px;
+	font-weight:bold;
+	font-family:"\9ED1\4F53";
+	color:#4E4E4E;
+}
+
+.fuwuqi_2 {
+	clear:both;
+	height:214px;
+	background-image:url(../images/fuwuqi_1.png);
+}
+
+.fuwuqi_3 {
+	clear:both;
+	height:214px;
+	background-image:url(../images/fuwuqi_2.png);
+}
+
+.fuwuqi_4 {
+	clear:both;
+	height:214px;
+	background-image:url(../images/fuwuqi_3.png);
+}
+
+.fuwuqi_5 {
+	clear:both;
+	height:214px;
+	background-image:url(../images/fuwuqi_4.png);
+}
+
+.server_img {
+	float:left;
+	margin-top:20px;
+	margin-left:60px;
+	background-image:url(../images/cp.png);
+	width:165px;
+	height:214px;
+	background-repeat:no-repeat;
+}
+
+.server_img_2 {
+	background-image:url(../images/xt1.png)
+}
+
+.server_img_3 {
+	background-image:url(../images/xt2.png)
+}
+
+.server_img_4 {
+	background-image:url(../images/xt3.png)
+}
+
+.server_img_5 {
+	background-image:url(../images/xt4.png)
+}
+
+.server_arg {
+	float:left;
+	width:500px;
+	height:inherit;
+	line-height:22px;
+	margin-left:35px;
+	margin-top:10px;
+	margin-right:2px;
+	overflow:auto;
+	font-size:14px;
+	color:#4e4e4e;
+	font-family:"\9ED1\4F53";
+}
+
+.fuwuqi .cpu {
+	font-size:18px;
+	font-weight:bold;
+}
+
+.fuwuqi .server_arg ul {
+	list-style-type: none;
+	padding-left:5px;
+}
+
+.server_buy {
+	float:left;
+	width:130px;
+	height:inherit;
+}
+
+.server_buy .price_left {
+	float:left;
+	padding-top:120px;
+	font-size:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:red;
+}
+
+.server_buy .price_right {
+	padding-top:122px; 
+	font-size:14px;
+	color:#4e4e4e;
+	font-family:"\9ED1\4F53";
+}
+
+.server_buy .price_button {
+	padding-left:2px;
+	padding-top:20px;
+	float:left;
+}

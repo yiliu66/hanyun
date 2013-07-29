@@ -1,0 +1,190 @@
+.yunzhuji {
+	height:750px;
+	width:inherit;
+}
+
+.yunzhuji_menu {
+	margin-top: 25px;
+	margin-left:10px;
+	margin-bottom:15px; 
+}
+
+.yunzhuji_menu li {
+	display:inline;
+	font-size:15px;
+	margin-right:36px;
+}
+
+.yunzhuji_menu .menu_a {
+	border-bottom:green solid 1px;
+	font-size:18px;
+}
+
+.yunzhuji_left {
+	width:675px;
+	height:677px;
+	float:left;
+	background-image:url(../images/yunzhuji_04.jpg);
+	margin-left:35px;
+}
+
+.yunzhuji_right {
+	float:left;
+	width:257px;
+	height:370px;
+	margin-top:4px;
+	background-image:url(../images/yunzhuji_10.jpg);
+}
+
+.yunzhuji_arg {
+	padding-left:10px;
+	font-size:20px;
+}
+
+.yunzhuji_arg_sale{
+	background-image: url(../images/yunzhuji-1.png);
+	width: 273px;
+	height:46px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.yunzhuji_arg_val {
+	background-color:#CCCCCC;
+	float:left;
+}
+
+.yunzhuji_arg dl {
+	width:650px;
+	margin: 0;
+	padding: 0;
+	-webkit-margin-before: 1em;
+	-webkit-margin-after: 1em;
+	-webkit-margin-start: 0px;
+	-webkit-margin-end: 0px;
+	border-bottom: 1px solid #bbc9d3;
+	overflow: hidden;
+	zoom: 1;
+}
+
+.yunzhuji_arg dt {
+	margin-top: 56px;
+	width: 75px;
+	height: 20px;
+	line-height:20px;
+	float: left;
+	font-weight: bold;
+	color: #474747;
+	font-family: 'Hiragino Sans GB','Microsoft Yahei';
+	font-size: 14px;
+	font-style: normal;
+	text-align: right;
+}
+
+.yunzhuji_arg dd {
+	display: block;
+	-webkit-margin-start: 40px;
+	width: 565px;
+	float: left;
+	line-height: 20px;
+	margin-top: 36px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	color: #474747;
+}
+
+.yunzhuji_arg .yunzhuji_info {
+	margin-top:36px;
+}
+
+.yunzhuji_arg dd span {
+	line-height:20px;
+	display: inline-block;
+}
+
+.yunzhuji_arg_btn {
+	padding:0px; 
+	margin:0px;
+}
+
+.yunzhuji_arg_btn li {
+	display: block;
+	float: left;
+	padding: 4px;
+	border-radius: 5px;
+	margin-right: 10px;
+	border: 1px solid #ddd;
+	background: #eceef3;
+	background: -webkit-gradient(linear,0 0,0 100%,from(#eef1f6),to(#e9ecf1));
+	background: -moz-linear-gradient(top,#eef1f6,#e9ecf1);
+	background: -o-linear-gradient(top,#eef1f6,#e9ecf1);
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorStr = '#eef1f6',EndColorStr = '#e9ecf1');
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#eef1f6', EndColorStr='#e9ecf1')";
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorStr = '#eef1f6',EndColorStr = '#e9ecf1');
+}
+
+.yunzhuji_arg_btn a {
+	background-color: transparent;
+	display: block;
+	width: 69px;
+	height: 45px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.yunzhuji_arg_btn a .ico {
+	height: 20px;
+	width: 40px;
+	float: left;
+	margin-left: 13px;
+	margin-top: 12px;
+	text-indent: 0;
+	font-weight: bold;
+	color: #465160;
+	font-family: 'Hiragino Sans GB','Microsoft Yahei';
+	font-size: 14px;
+	font-style: normal;
+	vertical-align: middle;
+	display:inline-block;
+}
+
+.yunzhuji_arg_btn .select {
+	padding: 5px;
+	border: none;
+	background: #2A95DF;
+	background: linear-gradient(top,#79BEF0 0,#79BEF0 30%,#017FD6 90%);
+	background: -webkit-linear-gradient(top,#79BEF0 0,#79BEF0 30%,#017FD6 90%);
+	background: -webkit-gradient(linear,0% 0,0% 100%,color-stop(0,#79BEF0),color-stop(0.3,#79BEF0),color-stop(0.9,#017FD6));
+	background: -moz-linear-gradient(top,#79BEF0 0,#79BEF0 30%,#017FD6 90%);
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorStr = '#79BEF0',EndColorStr = '#017FD6');
+}
+
+.yunzhuji_buy {
+	float:left;
+	height:inherit;
+	padding-left:360px;
+	height:120px;
+}
+
+.yunzhuji_buy .price_left {
+	float:left;
+	padding-top:40px;
+	font-size:24px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:red;
+}
+
+.yunzhuji_buy .price_right {
+	width: 38px;
+	float:left;
+	padding-top:42px; 
+	font-size:14px;
+	color:#4e4e4e;
+	font-family:"\9ED1\4F53";
+}
+
+.yunzhuji_buy .price_button {
+	padding-left:60px;
+	padding-top:36px;
+	float:left;
+}

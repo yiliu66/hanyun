@@ -1,0 +1,32 @@
+.honor {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.honor_background {
+	float:left; 
+	margin-left: 22px;
+	margin-right: 15px;
+	height:263px;
+}
+
+.honor_img {
+	text-align: center;
+	margin-top: 5px;
+}
+
+
+#honor_background_0 {
+	background-image: url(../images/honorbg-1.png); 
+	width: 153px;
+}
+
+#honor_background_1 {
+	background-image: url(../images/honorbg-2.png); 
+	width:222px;
+}
+
+#honor_background_2 {
+	background-image: url(../images/jifang.png); 
+	width: 286px;
+}

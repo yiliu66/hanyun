@@ -1,0 +1,183 @@
+.news_table a:link, a:visited {
+	color: #333;
+	outline: none;
+	text-decoration: none;
+	border-bottom: 0px solid;
+}
+
+.news_table a:hover {
+	color:blue;
+}
+
+.server {
+	width:1001px;
+	overflow: hidden;
+	height:381px;
+	margin-right:auto;
+	margin-left:27px;
+}
+
+.server_1 {
+	height: 381px;
+	width: 295px;
+	float:left;
+	background-image:url(../images/1_38.jpg)
+}
+
+.server_2 {
+	height: 381px;
+	width: 295px;
+	margin-left: 60px;
+	background-image: url(../images/1_40.jpg);
+	float:left;
+}
+
+.server_3 {
+	height: 381px;
+	width: 295px;
+	margin-right:0px;
+	background-image: url(../images/1_43.jpg);
+	float:right;
+}
+
+.server_table td {
+	border-bottom:dotted 1px #FF0000;
+	height:30px;
+	width:auto;
+	text-align:left;
+	white-space:nowrap;
+	overflow:hidden;
+	padding-left:20px;
+}
+
+.server_3 td {
+	height:25px;
+}
+
+.server_front_img {
+	padding-right:5px;
+}
+
+.content {
+	padding-top:5px;
+	margin-left:29px;
+	width:1001px;
+	height:257px;
+	background-image:url(../images/1_61.jpg);
+	border:solid 1px #dcdcdc;
+}
+
+.content .seperator {
+	float:left;
+	height:246px;
+	width:4px;
+	padding-left:15px;
+}
+
+.advantage {
+	width:444px;
+	height:257px;
+	background-image:url(../images/1_47.jpg);
+	float:left;
+}
+
+.more_img {
+	float:right;
+	position:relative;
+	top:12px;
+	margin-right:12px;
+}
+
+.news {
+	height:inherit;
+	width:296px;
+	float:left;
+}
+
+.news_img {
+	width:84px;
+	height:26px;
+	background-image:url(../images/1_55.jpg);
+	margin-top:10px;
+}
+
+.news_content {
+	padding-left:23px;
+	width:266px;
+	height:198px;
+	font-size:large;
+}
+
+.news_table {
+	table-layout: fixed;
+}
+
+.news_table td {
+	border-bottom:dotted 1px #333333;
+	height:22px;
+	width:188px;
+	text-align:left;
+	white-space:nowrap;
+	vertical-align: middle;
+	line-height: 22px;
+}
+
+.corporation {
+	height:inherit;
+	width:220px;
+	float:left;
+}
+
+.cor_img {
+	width:101px;
+	height:26px;
+	background-image:url(../images/1_57.jpg);
+	margin-top:10px;
+}
+
+.server_table {
+	padding-left:20px;
+	padding-top:68px;
+}
+
+.server_title {
+	font-size: x-large;
+	font-weight:bolder;
+	color: #FF0000;
+	text-align:center;
+	padding-top:10px;
+}
+
+.server_select {
+	width:200px;
+	height:23px;
+	padding-left:50px;
+	padding-top:15px;
+}
+
+.server_select_left {
+	height:inherit;
+	width:80px;
+	float:left;
+	margin-right:20px;
+}
+
+.server_select_right {
+	height:inherit;
+	width:80px;
+	float:left;
+	margin-left:20px;
+}
+
+.cor_content {
+	width:220px;
+	padding-left:8px;
+}
+
+.honor_img {
+	float:left;
+	width:99px;
+	height:69px;
+	padding-top:25px;
+	padding-right:5px;
+}

@@ -1,0 +1,29 @@
+.contacts {
+	margin-top: 15px;
+	width:inherit;
+}
+
+.contacts_menu {
+	margin-left:10px;
+	margin-bottom: 10px;
+}
+
+.contacts_menu li {
+	display:inline;
+	font-size:15px;
+	margin-right:30px;
+}
+
+.contacts_menu .menu_a {
+	border-bottom:green solid 1px;
+	font-size:18px;
+}
+
+.contacts_content {
+	padding-left:10px;
+	background-color: #f8f8f8;
+	background-repeat: repeat-y;
+	border: 1px solid #cdcdcd;
+	line-height: 30px;
+	height:auto;
+}

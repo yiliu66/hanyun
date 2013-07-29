@@ -1,0 +1,49 @@
+.level_1 {
+	width:inherit;
+	margin-top:50px;
+	margin-right:20px;
+	margin-bottom:20px;
+	margin-left:50px;
+}
+
+.level_1_left {
+	float:left;
+	background-image:url(../images/about-2.png);
+	width:231px;
+	height:206px;
+}
+
+.level_1_right {
+	margin-left: 20px;
+	float:left;
+	width:618px;
+}
+
+.level_2 {
+	width:inherit;
+	margin-bottom:10px;
+	margin-right:20px;
+	margin-left:50px;
+}
+
+.level_2_left {
+	float:left;
+	width:660px;
+	height:inherit;
+}
+.level_2_left_title {
+	padding-top: 30px;
+	font-size: 20px;
+}
+.level_2_left_content {
+	padding-top: 30px;
+	padding-left: 22px;
+}
+
+.level_2_right {
+	margin-top: 80px;
+	float:right;
+	width:259px;
+	height:196px;
+	background-image:url(../images/about-4.png);
+}

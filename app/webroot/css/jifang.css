@@ -1,0 +1,18 @@
+.jifang {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.jifang_background {
+	float:left; 
+	background-image: url(../images/jifang.png); 
+	width: 286px; 
+	height:263px;
+	margin-left: 22px;
+	margin-right: 15px;
+}
+
+.jifang_img {
+	text-align: center;
+	margin-top: 5px;
+}

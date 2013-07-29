@@ -1,0 +1,133 @@
+ul li {
+	list-style: none;
+	display:inline;
+}
+
+#menu .is_hot_ico {
+	background: url("../images/tophot.gif") repeat scroll 0 0 transparent;
+	height: 13px;
+	margin: 0 0 0 -45px;
+	position: absolute;
+	width: 31px;
+	z-index: 9999;
+}
+
+#menu {
+	border: none;
+	height: inherit;
+	left: 35px;
+	line-height: inherit;
+	padding: 0px;
+	width: 928px;
+	float:left;
+}
+
+#menu ul{
+	padding:0;
+	border:0;
+	list-style:none;
+	line-height:150%;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 2px;/*15*/
+	overflow:hidden;
+	white-space: nowrap;
+}
+
+#menu_out{
+	width:740px;
+	padding-left:0px;
+	margin-left:2px;
+	margin-right:2px;
+	/*background:url(../images/menu_left.gif) no-repeat left top;*/
+}
+#menu_in{
+	/*background:url(../images/menu_right.gif) no-repeat right top;*/
+	padding-right:0px;
+}
+#menu .menu_sep {
+	background-image: url(../images/1_14.jpg);
+	height: 33px;
+	width: 3px;
+	float: right;
+}
+
+#menu .m_li_a {
+	float: left;
+	width: 132px;
+	text-align: center;
+	font-weight: bold;
+	color: #1C9026;
+	background-image:url(../images/menubg.png);
+	background-repeat: no-repeat;
+}
+
+#menu .m_li {
+	float: left;
+	width: 132px;
+	text-align: center;
+	font-weight: bold;
+}
+
+#menu .m_li_a a {
+	display: block;
+	color: #1C9026;
+	width: 127px;
+}
+
+#menu .m_li a{
+	display: block;
+	color: #262626;
+	width: 127px;
+}
+
+#menu a {
+	display:block;
+	font-size:14px;
+	float:left;
+	line-height:33px;
+	margin-right:2px;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	HEIGHT: 33px;
+	TEXT-ALIGN: center;
+	text-decoration:none;
+	outline:none;
+}
+
+.subbox {
+	height: inherit;
+	line-height: inherit;
+	margin: 0px 0 0 0;
+	font-size:12px;
+	color:#4e4e4e;
+}
+
+.subbox .smenu {
+	width: inherit;
+	margin: 0px auto;
+	height:inherit;
+}
+
+.subbox .s_li_a {
+	line-height:inherit;
+	height:inherit;
+	display: block;
+}
+
+.subbox .s_li {
+	line-height:inherit;
+	height:inherit;
+	display: none;
+}
+
+.subbox a:link, a:visited  {
+	color: #333;
+	outline:none;
+	text-decoration: none;
+	border-bottom: 0px solid;
+}
+
+.subbox a:hover {
+	color: #1C9026;
+}

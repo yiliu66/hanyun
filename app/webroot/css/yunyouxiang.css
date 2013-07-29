@@ -1,0 +1,152 @@
+.yunyouxiang_level {
+	background-color:#f9f9f9;
+	width:inherit;
+	margin:20px;
+	border:#d2d2d2 1px solid;
+}
+
+#yunyouxiang_mail{
+	/*height:385px;*/
+}
+
+#yunyouxiang_advantage {
+	/*height:450px;*/
+}
+
+.yunyouxiang_head {
+	height:35px;
+	background-color:#e7e7e7;
+}
+
+.yunyouxiang_head_img {
+	width:148px;
+	height:34px;
+}
+
+.yunyouxiang_mail_head .yunyouxiang_head_img {
+	background-image:url(../images/yunyouxiang_1.png)
+}
+
+#yunyouxiang_advantage .yunyouxiang_head_img {
+	background-image:url(../images/yunyouxiang_4.png)
+}
+
+.yunyouxiang_table {
+	margin-left:auto;
+	margin-right:auto;
+	width:inherit;
+	text-align:left;
+	float:left;
+	padding-left:20px;
+	padding-top:12px;
+	/*height:300px;*/
+}
+
+.yunyouxiang_table table {
+	border-spacing: 0px;
+}
+
+.yunyouxiang_table table .mail_img {
+	float:left;
+	padding-top:1px;
+	padding-left:5px;
+}
+
+.yunyouxiang_table table .mail_text {
+	margin-left:60px;
+}
+
+.yunyouxiang_table table .odd {
+	background-color:#e7e7e7;
+}
+
+.yunyouxiang_table table td {
+	width:182px;
+	height:30px;
+}
+
+.yunyouxiang_sale {
+	padding-left:20px;
+	margin-top:20px;
+}
+
+.yunyouxiang_sale span{
+	float:left;
+	padding-left:10px;
+	color:#FF0000;
+}
+
+.yunyouxiang_adv {
+	padding-top:20px;
+	padding-left:60px;
+	padding-bottom:50px;
+	height:120px;
+	width:380px;
+	float:left;
+}
+
+.yunyouxiang_adv_img {
+	margin-left:40px;
+	padding-top:20px;
+	text-align:center;
+	vertical-align: middle;
+	width:inherit;
+}
+
+#yunyouxiang_adv_img_1 {
+	width:326px;
+	height:77px;
+	background-image:url(../images/yunyouxiang_5.png);
+}
+
+#yunyouxiang_adv_img_1 .adv_text_title {
+	padding-top:26px;
+	padding-left:56px;
+}
+
+#yunyouxiang_adv_img_2 {
+	/*margin-top:35px;*/
+	width:326px;
+	height:77px;
+	background-image:url(../images/yunyouxiang_6.png);
+}
+
+#yunyouxiang_adv_img_2 .adv_text_title {
+	padding-top:26px;
+	padding-left:56px;
+}
+
+#yunyouxiang_adv_img_3 {
+	width:320px;
+	height:65px;
+	background-image:url(../images/yunyouxiang_7.png);
+}
+
+#yunyouxiang_adv_img_3 .adv_text_title {
+	padding-top:4px;
+	padding-left:60px;
+}
+
+#yunyouxiang_adv_img_4 {
+	width:329px;
+	height:62px;
+	background-image:url(../images/yunyouxiang_8.png);
+}
+
+#yunyouxiang_adv_img_4 .adv_text_title {
+	padding-top:4px;
+	padding-left:52px;
+}
+
+.adv_text_title {
+	padding-top:12px;
+	padding-bottom:12px;
+	text-align:center;
+	font-size:22px;
+}
+
+.yunyouxiang_adv_text .adv_text {
+	padding-left:80px;
+	font-size:14px;
+	text-align:center;
+}

@@ -1,0 +1,57 @@
+#payment .content {
+	margin-top: 10px;
+	margin-left: 40px;
+}
+
+.notice_img {
+	height: 21px;
+	width: 122px;
+	background-image: url(../images/fukuan-1.png);
+}
+
+.notice {
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.pay_method_img {
+	height: 30px;
+	width: 257px;
+	background-image: url(../images/fukuan-2.png);
+}
+
+.pay_online_img {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	height: 17px;
+	width: 121px;
+	background-image: url(../images/fukuan-3.png);
+}
+
+.pay_offline_img {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	height: 25px;
+	width: 157px;
+	background-image: url(../images/fukuan-8.png);
+}
+
+.pay_online_left {
+	float: left;
+	width: 445px;
+	height: 200px;
+	border: 1px solid #d2d2d2;
+	margin-bottom: 25px;
+}
+
+.pay_online_left_img {
+	margin-top: 10px;
+	margin-left: 100px;
+	height: 80px;
+	width: 240px;
+}
+
+.pay_online_left_content {
+	margin-left: 80px;
+}

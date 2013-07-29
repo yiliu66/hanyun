@@ -1,0 +1,158 @@
+#solutions {
+	width:inherit;
+}
+
+#solutions .solutions_level {
+	clear:both;
+	width:inherit;
+}
+
+.solutions_level_1_title {
+	background-image:url(../images/jiejue_1.jpg);
+	width:574px;
+	height:39px;
+	margin-top:20px;
+	margin-left:218px;
+	margin-right:218px;
+}
+
+.solutions_level_1_img {
+	margin-left:20px;
+	height:278px;
+}
+
+.solutions_level_end {
+	margin-left:136px;
+	margin-bottom:20px;
+	background-image:url(../images/jiejue_6.png);
+	width:729px;
+	height:9px;
+}
+
+.solutions_level_2 {
+	height:364px;
+}
+
+.solutions_level_2_left {
+	margin-left:136px;
+	margin-top:180px;
+	float:left;
+}
+
+.solutions_level_2_right {
+	float:right;
+	background-image:url(../images/jiejue_9.png);
+	width:375px;
+	height:364px;
+	margin-right:136px;
+}
+
+.solutions_level_2_left_content {
+	padding-top:6px;
+	margin-left:20px;
+}
+
+.solutions_level_2_left_top {
+	background-image:url(../images/jiejue_7.png);
+	width:111px;
+	height:45px;
+}
+
+.solutions_level_btn {
+	padding-top:20px;
+	margin-left:5px;
+}
+
+.solutions_level_3 {
+	height:280px;
+}
+
+.solutions_level_3_left {
+	float:left;
+	background-image:url(../images/jiejue_10.png);
+	width:343px;
+	height:249px;
+	margin-left:136px;
+}
+
+.solutions_level_3_right {
+	float:right;
+	margin-left:30px;
+	margin-right:136px;
+}
+
+.solutions_level_3_right_top {
+	margin-top:50px;
+	background-image:url(../images/jiejue_11.png);
+	background-repeat:no-repeat;
+	height:66px;
+}
+
+.solutions_level_3_right_mid {
+	margin-top:30px;
+	background-image:url(../images/jiejue_12.png);
+	background-repeat:no-repeat;
+	height:66px;
+}
+
+.solutions_level_text {
+	padding-left:20px;
+	padding-top:45px;
+}
+
+.solutions_level_4 {
+	height:380px;
+}
+
+.solutions_level_4_right {
+	float:right;
+	background-image:url(../images/jiejue_15.png);
+	width:323px;
+	height:353px;
+	margin-right:136px;
+	margin-left:50px;
+}
+
+.solutions_level_4_left {
+	float:left;
+	margin-left:136px;
+}
+
+.solutions_level_4_left_top {
+	margin-top:50px;
+	background-image:url(../images/jiejue_13.png);
+	background-repeat:no-repeat;
+	height:96px;
+}
+
+.solutions_level_4_left_mid {
+	margin-top:30px;
+	background-image:url(../images/jiejue_14.png);
+	background-repeat:no-repeat;
+	height:96px;
+}
+
+.solutions_level_5 {
+	clear:both;
+	height:500px;
+	margin-left:136px;
+	margin-right:136px;
+}
+
+.solutions_level_5_top {
+	background-image:url(../images/jiejue_16.png);
+	width:712px;
+	height:304px;
+}
+
+.solutions_level_5_mid {
+	background-image:url(../images/jiejue_17.png);
+	width:458px;
+	height:99px;
+	margin-left:135px;
+}
+
+.solutions_level_5_btn {
+	text-align:center;
+	margin-top:20px;
+}

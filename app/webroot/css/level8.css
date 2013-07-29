@@ -1,0 +1,46 @@
+.foot_left {
+	margin-left:30px;
+	height:inherit;
+	width:400px;
+	float:left;
+}
+
+.foot_left ul li .foot_index {
+	font-weight:normal;
+}
+
+.foot_left ul li {
+	display:block;
+	text-align:center;
+}
+
+.foot_left .foot_li_img {
+	height:4px;
+	width:81px;
+	background-image:url(../images/1.png)
+}
+
+.foot_left ul li a{
+	color: #4e4e4e;
+	font-size:12px;
+}
+
+.foot_left ul li a:link {
+	text-decoration: none;
+}
+
+.foot_left ul li a:hover {
+	color:blue;
+}
+
+.foot_right {
+	height:inherit;
+	width:500px;
+	float:right;
+	text-align:right;
+	margin-right: 30px;
+}
+
+.foot_right table {
+	padding-left:0px;
+}
