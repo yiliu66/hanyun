@@ -37,22 +37,22 @@
                 <div class="server_table">
                     <table width="216" height="210">
                         <tr>
-                            <td><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">CPU：</span><span id="cpu_1">酷睿双核I3-2100A</span></span></td>
+                            <td><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">CPU:&nbsp;</span><span id="cpu_1">酷睿双核I3-2100A</span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>内存：</strong><span id="mem_1">4G</span></span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>内存:&nbsp;</strong><span id="mem_1">4G</span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>硬盘：</strong><span id="disk_1">1000G<span></span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>硬盘:&nbsp;</strong><span id="disk_1">1000G<span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>带宽：</strong>百兆共享/千兆共享</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>带宽:&nbsp;</strong>百兆共享/千兆共享</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">IP</span><strong>：</strong>联通独立IP</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">IP</span><strong>:&nbsp;</strong>联通独立IP</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>操作系统：</strong> linux / Window 任选</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>操作系统:</strong>Linux/Windows任选</span></td>
                         </tr>
                     </table>
                 </div>
@@ -75,22 +75,22 @@
                 <div class="server_table">
                     <table width="225"  height="210" border="0">
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">CPU：</span><span id="cpu_2">1Core/4Core/8Core 任选</span></span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">CPU:&nbsp;</span><span id="cpu_2">1Core/4Core/8Core 任选</span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>内存：</strong><span id="mem_2">2G/8G/16G 任选</span></span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>内存:&nbsp;</strong><span id="mem_2">2G/8G/16G 任选</span></span></td>
                         </tr>
                         <tr>
-                            <td  height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>硬盘：</strong><span id="disk_2">100G/200G 任选</span></span></td>
+                            <td  height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>硬盘:&nbsp;</strong><span id="disk_2">100G/200G 任选</span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>带宽：</strong>百兆共享/千兆共享</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>带宽:&nbsp;</strong>百兆共享/千兆共享</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">IP</span><strong>：</strong>联通独立IP</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">IP</span><strong>:&nbsp;</strong>联通独立IP</span></td>
                         </tr>
                         <tr>
-                            <td  height="35"><span  class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>操作系统:</strong><span class="STYLE21"> linux / Window </span>任选</span></td>
+                            <td  height="35"><span  class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>操作系统:&nbsp;</strong><span class="STYLE21">Linux/Windows</span>任选</span></td>
                         </tr>
                     </table>
                 </div>
@@ -113,25 +113,25 @@
                 <div class="server_table">
                     <table width="206" height="210">
                         <tr>
-                            <td><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">海量：</span><span>海量存储，轻松办公</span></span></td>
+                            <td><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">海量:&nbsp;</span><span>海量存储，轻松办公</span></span></td>
                         </tr>
                         <tr>
                             <td height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="STYLE31">支持大规模数据传输</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>安全：</strong>数据永不丢失</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>安全:&nbsp;</strong>数据永不丢失</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>共享：</strong>实时共享，及时同步</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>共享:&nbsp;</strong>实时共享，及时同步</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">节约：</span><span>按需使用，按需收费</span></span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><span class="STYLE33">节约:&nbsp;</span><span>按需使用，按需收费</span></span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src="images/2.png" class="server_front_img"/><strong>扩展：</strong>存储容量弹性扩展</span></td>
+                            <td height="35"><span class="STYLE31"><img src="images/2.png" class="server_front_img"/><strong>扩展:&nbsp;</strong>存储容量弹性扩展</span></td>
                         </tr>
                         <tr>
-                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>简易：</strong>轻松维护，集中管理</span></td>
+                            <td height="35"><span class="STYLE31"><img src=images/2.png class="server_front_img"/><strong>简易:&nbsp;</strong>轻松维护，集中管理</span></td>
                         </tr>
                     </table>
                 </div>
