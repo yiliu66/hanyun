@@ -32,13 +32,11 @@
 #level_5_index .bg-1{background-image:url(../images/index-3.png);}
 #level_5_index .bg-2{background-image:url(../images/index-2.png);}
 #level_5_index .bg-3{background-image:url(../images/index-1.png);}
+#level_5_index .bg-4{background-image:url(../images/index-4.png);}
 #level_5 .bg-1{background-image:url(../images/neiye-3.png);}
 #level_5 .bg-2{background-image:url(../images/neiye-2.png);}
 #level_5 .bg-3{background-image:url(../images/neiye-1.png);}
-/*.pic{position:absolute;left:0;bottom:0;width:100%;opacity:0;background-position:50% 50%;background-repeat:no-repeat;-webkit-transition:all 800ms cubic-bezier(.62,.25,.65,.83);-moz-transition:all 800ms cubic-bezier(.62,.25,.65,.83);-ms-transition:all 800ms cubic-bezier(.62,.25,.65,.83);-o-transition:all 800ms cubic-bezier(.62,.25,.65,.83);transition:all 800ms cubic-bezier(.62,.25,.65,.83)}
-.pic-1{height:264px;background:url('../images/2r0sRo7Na5.png') no-repeat 50% 50%;_background:0}
-.pic-2{background-image:url('../images/3JsobJiBY3.png');height:170px;_background:0}
-.pic-3{width:280px;height:350px;left:46%;background:url('../images/3JsobJQyx1.png') no-repeat 50% 50%;_background:0}*/
+#level_5 .bg-4{background-image:url(../images/neiye-4.png);}
 .txt-wrap{position:relative;width:1001px;height:100%;margin:0 auto;zoom:1}
 .txt{
 	position:absolute;bottom:30px;right:100px;
@@ -50,15 +48,11 @@
 .txt-1{background-image:url(../images/shengqing.png);_background:0}
 .txt-2{background-image:url(../images/shengqing.png);_background:0}
 .txt-3{background-image:url(../images/shengqing.png);_background:0}
-.slide-1 .bg-1,.slide-1 .pic-1,.slide-1 .txt-1{display:block;opacity:1}
-.slide-2 .bg-2,.slide-2 .pic-2,.slide-2 .txt-2{display:block;opacity:1}
-.slide-3 .bg-3,.slide-3 .pic-3,.slide-3 .txt-3{display:block;opacity:1}
-/*.slide-1 .txt-2,.slide-3 .txt-2{top:0}*/
-/*.slide-1 .pic-2,.slide-3 .pic-2{left:-14px}*/
-/*.slide-2 .txt-1,.slide-3 .txt-1{top:160px}*/
-/*.slide-2 .pic-1,.slide-3 .pic-1{left:14px}*/
-/*.slide-1 .txt-3,.slide-2 .txt-3{left:0px}*/
-/*.slide-1 .pic-3,.slide-2 .pic-3{left:47%}*/
+.txt-4{background-image:url(../images/shengqing.png);_background:0}
+.slide-1 .bg-1,.slide-1 .txt-1{display:block;opacity:1}
+.slide-2 .bg-2,.slide-2 .txt-2{display:block;opacity:1}
+.slide-3 .bg-3,.slide-3 .txt-3{display:block;opacity:1}
+.slide-4 .bg-4,.slide-4 .txt-4{display:block;opacity:1}
 .slide-number{padding:9px 0;text-align:center}
 .slide-number a{width:14px;height:14px;display:inline-block;margin:0 10px 0 0;background-repeat:no-repeat;background-position:-40px -286px;text-indent:-9999em;overflow:hidden;outline:0}
 .slide-number a::moz-focus-inner{border:0}

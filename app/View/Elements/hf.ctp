@@ -31,11 +31,21 @@
                 <!-- <div class="pic pic-3"></div> -->
             </div>
             </li>
-    </ul>
+            <li class="slide">
+                <div class="bg bg-4">
+                  <div class="txt-wrap">  
+                    <!-- <div class="txt txt-4">
+                      <a href="../pages/solutions" target="_blank" title="提交申请" hidefocus="true" seed="txt-linkT3" smartracker="on">提交申请</a>
+                    </div> -->               
+                  </div>
+                </div>
+            </li>
+      </ul>
     <div id="J-slide-number" class="slide-number">
         <a href="#" class="slide-number-active" hidefocus="true" seed="JSlideNumber-slideNumberActive" smartracker="on">1</a>
         <a href="#" hidefocus="true" seed="JSlideNumber-link" smartracker="on" class="">2</a>
         <a href="#" hidefocus="true" seed="JSlideNumber-linkT1" smartracker="on" class="">3</a>
+        <a href="#" hidefocus="true" seed="JSlideNumber-linkT2" smartracker="on" class="">4</a>
     </div>
     </div>
     <SCRIPT type=text/javascript charset=utf-8>
@@ -44,8 +54,7 @@
         combo_path: '/ar/??/'
       }
     </SCRIPT>
-    <script type="text/javascript" charset="utf-8" src="../js/arale.core-1.1.js"></script>
-    <script type="text/javascript" charset="utf-8" src="../js/alipay.alipayIndexSimple.base-1.0.js"></script>
+    <?php echo $this->Html->script(array('base', 'core')); ?>
     <SCRIPT type=text/javascript>
       var adjust = null, adjustHeight = null,adjustHeightRecord = 0;
       Loader.use('alipay.alipayIndexSimple.main',function(){
@@ -100,7 +109,7 @@
         }
         var SLIDE;
         SLIDE = setInterval(function() {
-          if (index >= 3) index = 0;
+          if (index >= 4) index = 0;
           index++;
           slideTo(index);
         }, 5000);
@@ -109,7 +118,7 @@
         });
         E.on(banner, 'mouseout', function() {
           SLIDE = setInterval(function() {
-            if (index >= 3) index = 0;
+            if (index >= 4) index = 0;
             index++;
             slideTo(index);
           }, 5000);
