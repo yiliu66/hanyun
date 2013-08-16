@@ -54,7 +54,7 @@
         combo_path: '/ar/??/'
       }
     </SCRIPT>
-    <?php echo $this->Html->script(array('base', 'core')); ?>
+    <?php echo $this->Html->script(array('arale.core-1.1', 'alipay.alipayIndexSimple.base-1.0')); ?>
     <SCRIPT type=text/javascript>
       var adjust = null, adjustHeight = null,adjustHeightRecord = 0;
       Loader.use('alipay.alipayIndexSimple.main',function(){
